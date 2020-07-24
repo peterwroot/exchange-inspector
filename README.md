@@ -5,7 +5,7 @@ PowerShell script to audit Microsoft Exchange and Office 365 mailboxes.
 ## Exchange:
 
 Supports Exchange server versions 2007 through 2019. 
-Run the script on the exchange server you want to audiot. 
+Run the script on the exchange server you want to audit. 
 
 ## Office 365:
 
